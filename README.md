@@ -38,6 +38,6 @@ Other
 ### Hardware 
 None
 
-## Process flow diagram
-![Alt text](/process_flow.jpeg "Process Flow")
+## Control flow diagram
+![Alt text](/control_flow.jpeg "Control Flow")
 
