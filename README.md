@@ -39,5 +39,5 @@ Other
 None
 
 ## Control flow diagram
-![Alt text](/control_flow.jpeg "Control Flow")
+![Alt text](/process_flow.jpeg "Control Flow")
 
