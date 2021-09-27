@@ -41,3 +41,9 @@ None
 ## Control flow diagram
 ![Alt text](/process_flow.jpeg "Control Flow")
 
+Roles:
+Frontend: Kushagr Sharma 
+Machine Learning: Gokul P.
+Backend: Shivam Mahajan
+All rounder help: Akshaye
+
