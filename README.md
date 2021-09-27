@@ -42,8 +42,8 @@ None
 ![Alt text](/process_flow.jpeg "Control Flow")
 
 Roles:
-Frontend: Kushagr Sharma 
-Machine Learning: Gokul P.
-Backend: Shivam Mahajan
-All rounder help: Akshaye
+-Frontend: Kushagr Sharma 
+-Machine Learning: Gokul P.
+-Backend: Shivam Mahajan
+-All rounder help: Akshaye
 
